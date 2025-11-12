@@ -1,6 +1,13 @@
 # platform_channel_app
 
-A new Flutter project.
+This is for Hosting with android and give the onfo of android in the output.
+
+---
+
+![Alt text](1.jpeg "Demo")
+![Alt text](2.png "Demo")
+
+---
 
 ## Getting Started
 
