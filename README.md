@@ -1,4 +1,4 @@
-# platform_channel_app
+# Platform Channel App
 
 This is for Hosting with android and give the onfo of android in the output.
 
