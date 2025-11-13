@@ -4,8 +4,10 @@ This is for Hosting with android and give the onfo of android in the output.
 
 ---
 
-![Alt text](1.jpeg "Demo")
-![Alt text](2.png "Demo")
+<div> 
+  <img src="1.jpeg" alt="Demo" style="width: 300px;">
+  <img src="2.png" alt="Demo" style="width: 300px;">
+</div>
 
 ---
 
